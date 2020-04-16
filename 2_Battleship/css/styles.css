@@ -1,0 +1,51 @@
+.tile {
+  background-color: #1E3F5A;
+  /* Black*/
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border: 1px solid white;
+  position: relative;
+}
+
+.playerContainer {
+  width: 35vw;
+  height: 35vw;
+  border: 2px solid #000000;
+}
+
+#battleshipContainer button img {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  top:25%;
+  left:0;
+}
+
+#battleshipContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+#messageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#shipsLeft{
+  display: flex;
+  align-items: left;
+}
+
+#statsContainer {
+  display: flex;
+  justify-content: space-around;;
+}
+
+.playerStatsContainer {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+}
