@@ -26,5 +26,5 @@ koll på flera användare simultant. Servern kommer ihåg användaren genom att 
   
    ### You Won!
    <p float="left" align='center'> 
-  <img src='https://github.com/alexandrahotti/Internet_Programmering/blob/master/1_Sockets/results/5_won.png' width="65%" height="65%"
+  <img src='https://github.com/alexandrahotti/Internet_Programmering/blob/master/1_Sockets/results/5_won.png' width="60%" height="60%"
  />
